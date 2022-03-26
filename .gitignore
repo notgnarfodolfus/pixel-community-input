@@ -1,0 +1,15 @@
+
+/nbproject
+/target
+/bin
+
+/.idea
+/.settings
+/.project
+/.classpath
+/.factorypath
+/.vscode
+
+/nbactions.xml
+
+*.iml
